@@ -27,5 +27,3 @@ def biggestn(n,m):
         return customSort(n)
     return None
 
-
-print(biggestn([3,1,7,2,10,7,9],10))
